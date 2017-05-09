@@ -6,4 +6,4 @@ For this project, I analysed the musical piece 'Deux Arabesques' by Debussy and 
 
 This repository includes the code employed for the selection of the melody and other processes executed to better analyse the piece before deciding what to transform the original piece into.
 
-A more thorough description may be found in the paper contained in this repository.
+A more thorough description may be found in the paper (DebussyinJazz_NataliaDelgado) contained in this repository.
